@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tokenito/static/css/main.e10b412d.css",
+    "main.js": "/Tokenito/static/js/main.85c9520c.js",
+    "static/js/453.c6351f30.chunk.js": "/Tokenito/static/js/453.c6351f30.chunk.js",
+    "index.html": "/Tokenito/index.html",
+    "main.e10b412d.css.map": "/Tokenito/static/css/main.e10b412d.css.map",
+    "main.85c9520c.js.map": "/Tokenito/static/js/main.85c9520c.js.map",
+    "453.c6351f30.chunk.js.map": "/Tokenito/static/js/453.c6351f30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e10b412d.css",
+    "static/js/main.85c9520c.js"
+  ]
+}
